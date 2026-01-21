@@ -1,4 +1,4 @@
-package com.example.user_service;
+package com.example.user_service.Controller;
 
 import com.example.user_service.dto.UserResponseDto;
 import org.springframework.http.ResponseEntity;
